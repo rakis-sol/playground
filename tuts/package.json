@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "arweave": "^1.10.16"
+    "arweave": "^1.10.16",
+    "node-fetch": "^3.0.0"
   },
   "type": "module"
 }
